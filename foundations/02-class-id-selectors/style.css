@@ -1,0 +1,19 @@
+.para {
+    background-color: rgb(248,200, 220);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.different {
+    font-size: 24px
+}
+
+#two {
+    color: rgb(0, 32,255);
+    font-size: 32px
+}
+
+#four {
+    font-weight: bold;
+    background-color: rgb(15, 255, 81);
+    font-size: 24px
+}
